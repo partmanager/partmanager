@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/partmanager/frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/partmanager/backend.git
+[submodule "partsdb"]
+	path = partsdb
+	url = https://github.com/partmanager/partsdb.git
